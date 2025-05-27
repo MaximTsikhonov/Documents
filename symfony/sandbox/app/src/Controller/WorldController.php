@@ -10,6 +10,5 @@ class WorldController extends AbstractController
     {
 //        var_dump(12);
 
-        return null;
     }
 }
